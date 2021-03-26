@@ -1,5 +1,6 @@
 ### Hamz-Code
--i am Artificial Intelligence A.K.A AI
+i am Artificial Intelligence
+
 
 <!--
 **Hamz-Code/Hamz-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
