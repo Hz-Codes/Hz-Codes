@@ -1,4 +1,4 @@
-### Hamz-Code
+### Hz-Code
 [ ; ]
 
 Young Programmer
